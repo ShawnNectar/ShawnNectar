@@ -1,5 +1,70 @@
-<p align="center">
-<img src="nectar_logo_transparent-01.png" alt="Alt text" width="270/>
-</p>
+<div align="center">
+  <img height="150" src="https://github.com/ShawnNectar/ShawnNectar/blob/abedecbd9009c2e502766638cf48398d30bc20cb/nectar_logo_transparent-01.png"  />
+</div>
 
-<h1 align="center">Shawn Nectar</h1>
+###
+
+<h1 align="center">Nectar :)</h1>
+
+###
+
+<h3 align="left">Hey, I'm Shawn (or Gus, whatever floats your boat)!</h3>
+
+###
+
+<p align="left">Welcome to my GitHub profile. I'm a math and technology enthusiast, and I'm passionate about algorithms, machine learning, and exploring the wonders of the sky and Planet Earth.<br><br>My mission is to create code that is not only easy to use but also enjoyable to read, especially for those who want to learn in a fun way. I believe that technology can help us achieve great things, and I'm excited to be a part of that journey.<br><br>Who knows what the future holds? But I'm confident that one day, I'll create something that will change the game. Until then, I'm working on tech-based projects that span across different domains - from space to earth, from jets to cars, even some fun chemistry</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="52" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
+</div>
+
+###
+
+<h3 align="left">Let's chat!</h3>
+
+###
+
+<p align="left">If you want to connect, my Discord is ShawnNectar#8155, and my email is shawnnectar@protonmail.com. I'm mostly self-taught, and I'm always on the lookout for new knowledge and skills to acquire. So without doubt I will love to talk with you!</p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ShawnNectar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShawnNectar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShawnNectar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ShawnNectar/ShawnNectar/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
