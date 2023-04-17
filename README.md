@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/ShawnNectar/ShawnNectar/blob/abedecbd9009c2e502766638cf48398d30bc20cb/nectar_logo_transparent-01.png"  />
+  <img height="250" src="https://github.com/ShawnNectar/ShawnNectar/blob/abedecbd9009c2e502766638cf48398d30bc20cb/nectar_logo_transparent-01.png"  />
 </div>
 
 ###
@@ -8,13 +8,22 @@
 
 ###
 
-<h3 align="left">Hey, I'm Shawn (or Gus, whatever floats your boat)!</h3>
+<h3 align="left">🧑 Hey, I'm Shawn (or Gus, whatever floats your boat)!</h3>
 
 ###
 
 <p align="left">Welcome to my GitHub profile. I'm a math and technology enthusiast, and I'm passionate about algorithms, machine learning, and exploring the wonders of the sky and Planet Earth.<br><br>My mission is to create code that is not only easy to use but also enjoyable to read, especially for those who want to learn in a fun way. I believe that technology can help us achieve great things, and I'm excited to be a part of that journey.<br><br>Who knows what the future holds? But I'm confident that one day, I'll create something that will change the game. Until then, I'm working on tech-based projects that span across different domains - from space to earth, from jets to cars, even some fun chemistry</p>
 
 ###
+
+<h3 align="left">📡 What I'm doing</h3>
+
+###
+
+<p align="left">-Solar Panel Optimizer: A system that tracks the movement of the sun and adjusts the position of solar panels to maximize energy output, using math algorithms and robotics to optimize energy efficiency and reduce waste.<br><br>    -Debris Tracker: An application that tracks the movement of space debris and predicts potential collisions with satellites, using advanced algorithms and real-time data to enhance space safety and prevent accidents.<br><br>    -Smart Home: A platform that allows users to control various devices and appliances in their home from their smartphone, using common technology and Wi-Fi connectivity to provide centralized control and enhance home automation.</p>
+
+###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -34,15 +43,15 @@
 
 ###
 
-<h3 align="left">Let's chat!</h3>
+<h3 align="left">👨‍💻    Let's Chat!</h3>
 
 ###
 
-<p align="left">If you want to connect, my Discord is ShawnNectar#8155, and my email is shawnnectar@protonmail.com. I'm mostly self-taught, and I'm always on the lookout for new knowledge and skills to acquire. So without doubt I will love to talk with you!</p>
+<p align="left">I'm mostly self-taught, and I'm always on the lookout for new knowledge and skills to acquire. So without doubt I will love to talk with you!<br><br>If you're interested in connecting with me, you can reach me at the following:<br><br>Discord: ShawnNectar#8155 - I'm here everyday, it's almost impossible that I don't see you:)<br><br>Email: shawnnectar@protonmail.com - Maybe I will answer, but maybe not</p>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats</h3>
 
 ###
 
@@ -59,12 +68,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ShawnNectar/ShawnNectar/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
+<h3 align="left"> Thanks for checking out my profile, and feel free to explore my repositories to see more of my work. </h3>
