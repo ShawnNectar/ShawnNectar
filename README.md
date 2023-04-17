@@ -55,9 +55,9 @@
 
 ###
 
-<p align="center" height="10">
-  <img src="https://streak-stats.demolab.com?user=ShawnNectar&theme=javascript" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShawnNectar&theme=highcontrast&show_icons=true" alt="Anurag's GitHub stats">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShawnNectar&theme=javascript" height="100" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShawnNectar&theme=highcontrast&show_icons=true" height="100" alt="Anurag's GitHub stats">
 
 </p>
 
