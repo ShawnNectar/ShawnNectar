@@ -55,7 +55,7 @@
 
 ###
 
-<p align="center" height="100">
+<p align="center" height="10">
   <img src="https://streak-stats.demolab.com?user=ShawnNectar&theme=javascript" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api?username=ShawnNectar&theme=highcontrast&show_icons=true" alt="Anurag's GitHub stats">
 
