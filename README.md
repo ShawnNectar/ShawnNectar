@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ShawnNectar&theme=javascript" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShawnNectar&theme=highcontrast&show_icons=true" height="195" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShawnNectar&theme=highcontrast&show_icons=true" height="15" alt="Anurag's GitHub stats">
 
 </p>
 
