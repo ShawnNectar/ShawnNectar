@@ -61,7 +61,10 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawnNectar&layout=compact&hide_title=true&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Languages" />
+</p>
+
 
 ###
 
