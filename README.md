@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">👨‍💻    Let's Chat!</h3>
+<h3 align="left">👨‍💻 Let's Chat!</h3>
 
 ###
 
