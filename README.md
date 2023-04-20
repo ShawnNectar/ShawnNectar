@@ -61,6 +61,10 @@
 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShawnNectar&theme=highcontrast&layout=compact&hide_title=true&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="160" alt="Top Languages" />
+</p>
+
 ###
 
 <h3 align="left"> Thanks for checking out my profile, and feel free to explore my repositories to see more of my work. </h3>
