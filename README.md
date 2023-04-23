@@ -47,7 +47,7 @@
 
 ###
 
-<p align="left">I'm mostly self-taught, and I'm always on the lookout for new knowledge and skills to acquire. So without doubt I will love to talk with you!<br><br>If you're interested in connecting with me, you can reach me at the following:<br><br>Discord: (ShawnNectar#8155) — I'm here everyday, it's almost impossible that I don't see you:)<br><br>Email: shawnnectar@protonmail.com — Maybe I will answer, but maybe not</p>
+<p align="left">I'm mostly self-taught, and I'm always on the lookout for new knowledge and skills to acquire. So without doubt I will love to talk with you!<br><br>If you're interested in connecting with me, you can reach me at the following:<br><br>Discord: (ShawnNectar#8155) — I'm here everyday, it's almost impossible that I don't see you:)<br><br>Email: (shawnnectar@protonmail.com) — Maybe I will answer, but maybe not</p>
 
 ###
 
