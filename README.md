@@ -57,14 +57,12 @@
 
 ###
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShawnNectar&theme=javascript" height="160" alt="GitHub Streak">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShawnNectar&theme=highcontrast&show_icons=true" height="160" alt="Anurag's GitHub stats">
 
-</p>
 
-<p align="center">
+
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShawnNectar&theme=highcontrast&layout=compact&hide_title=true&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShawnNectar&theme=highcontrast&show_icons=true" height="160" alt="Anurag's GitHub stats">
 </p>
 
 ###
