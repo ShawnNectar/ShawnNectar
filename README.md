@@ -12,7 +12,11 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile. I'm a math and technology enthusiast, and I'm passionate about algorithms, machine learning, and exploring the wonders of the sky, space and Planet Earth.<br><br>My mission is to create code that is not only easy to use but also enjoyable to read, especially for those who want to learn in a fun way, either stuff that you make our life better, we must overcome some things that were passed to us. I believe that technology can help us achieve great things, and I'm excited to be a part of that journey.<br><br>Who knows what the future holds? But I'm confident that one day, I'll create something that will change the game. Until then, I'm working on tech-based projects that span across different domains - from space to earth, from rockets to cars, even some fun with biology!<br><br>Talking close as friends, I've always been scared of life, always suffered a lot, but things don't need to be like this, we can be small differences that creates great stuff, there's no need to have our names around countries in big outdoors, we are the daily difference. Thinking about astronomical perspectives, we are nothing, but our feelings are huuuuge, we gotta control them, don't let them escape into the void, hold it in your hands, touch it in your heart, make it happen the way it is the best to you, don't exceed, go slow, feel the feeling.</p>
+<p align="left">Welcome to my GitHub profile. I'm a math and technology enthusiast, and I'm passionate about algorithms, machine learning, and exploring the wonders of the sky, space and Planet Earth.<br><br>My mission is to create code that is not only easy to use but also enjoyable to read, especially for those who want to learn in a fun way, either stuff that you make our life better, we must overcome some things that were passed to us. I believe that technology can help us achieve great things, and I'm excited to be a part of that journey.<br><br>Who knows what the future holds? But I'm confident that one day, I'll create something that will change the game. Until then, I'm working on tech-based projects that span across different domains - from space to earth, from rockets to cars, even some fun with biology!</p>
+
+###
+
+
 
 ###
 
