@@ -23,8 +23,6 @@
 
 <h3 align="left">📡 What I'm doing</h3>
 
-###
-
 <p align="left">-Solar Panel Optimizer: A system that tracks the movement of the sun and adjusts the position of solar panels to maximize energy output, using math algorithms and robotics to optimize energy efficiency and reduce waste.<br><br>    -Debris Tracker: An application that tracks the movement of space debris and predicts potential collisions with satellites, using advanced algorithms and real-time data to enhance space safety and prevent accidents.<br><br>    -Smart Home: A platform that allows users to control various devices and appliances in their home from their smartphone, using common technology and Wi-Fi connectivity to provide centralized control and enhance home automation.</p>
 
 ###
