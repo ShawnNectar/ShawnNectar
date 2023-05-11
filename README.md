@@ -18,7 +18,7 @@
 
 <h3 align="left"> What We Feel</h3>
 
-<p align="left">Talking close as friends, I've always been scared of life, always suffered a lot, but things don't need to be like this, we can be small differences that creates great stuff, there's no need to have our names around countries in big outdoors, we are the daily difference. Thinking about astronomical perspectives, we are nothing, but our feelings are huuuuge, we gotta control them, don't let them escape into the void, hold it in your hands, touch it in your heart, make it happen the way it is the best to you, don't exceed, go slow, feel the feeling.</p>
+<p align="left">Talking close as friends, I've always been scared of life, always suffered a lot, but things don't need to be like this, we can be the small differences that creates great stuff, there's no need to have our names around countries in big outdoors, we are the daily difference. Thinking about astronomical perspectives, we are nothing, but our feelings are huuuuge, we gotta control them, don't let them escape into the void, hold it in your hands, touch it in your heart, make it happen the way it is the best to you, don't exceed, go slow.</p>
 
 <h3 align="left">📡 What I'm doing</h3>
 
