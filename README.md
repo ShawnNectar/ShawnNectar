@@ -16,10 +16,6 @@
 
 ###
 
-<h3 align="left"> What We Feel</h3>
-
-<p align="left">Talking close as friends, I've always been scared of life, always suffered a lot, but things don't need to be like this, we can be the small differences that creates great stuff, there's no need to have our names around countries in big billboards, we are the daily difference. Thinking about astronomical perspectives, we are nothing, but our feelings are huuuuge, we gotta control them, don't let them escape into the void, hold it in your hands, touch it in your heart, make it happen the way it is the best to you, don't exceed, go slow.</p>
-
 <h3 align="left">📡 What I'm doing</h3>
 
 <p align="left">-Solar Panel Optimizer: A system that tracks the movement of the sun and adjusts the position of solar panels to maximize energy output, using math algorithms and robotics to optimize energy efficiency and reduce waste.<br><br>    -Debris Tracker: An application that tracks the movement of space debris and predicts potential collisions with satellites, using advanced algorithms and real-time data to enhance space safety and prevent accidents.<br><br>    -Smart Home: A platform that allows users to control various devices and appliances in their home from their smartphone, using common technology and Wi-Fi connectivity to provide centralized control and enhance home automation.</p>
