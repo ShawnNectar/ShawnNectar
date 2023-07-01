@@ -77,3 +77,5 @@
 <h3 align="left"> Thanks for checking out my profile, and feel free to explore my repositories to see more of my work. </h3>
 
 ###
+
+<h4> 🔒 My repositories are currently set to private as part of a restructuring process </h4>
