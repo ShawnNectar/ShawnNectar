@@ -62,6 +62,9 @@
 
 <h3 align="left">🔥   My Stats</h3>
 
+[![ShawnNectar's GitHub stats](https://github-readme-stats-three-navy-52.vercel.app/api?username=ShawnNectar&theme=highcontrast&show_icons=true)](https://github.com/ShawnNectar/github-readme-stats)
+
+
 ###
 
 
