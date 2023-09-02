@@ -12,13 +12,12 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile. I'm a math and technology enthusiast, I'm passionate about algorithms, embedded, robotics, trains, and exploring the wonders of the sky, space and Planet Earth.<br><br>My mission is to create code that is not only easy to use but also enjoyable to read, especially for those who want to learn in a fun way, either stuff that you make our life better, we must overcome some things that were passed to us. I believe that technology can help us achieve great things, and I'm excited to be a part of that journey.<br><br>Who knows what the future holds? But I'm confident that one day, we are going to create something that will change the game. Until then, I'm working on tech-based projects that span across different domains - from space to earth, from rockets to cars, even have some fun with biology!</p>
+<p align="left">Welcome to my GitHub profile. I'm an enthusiast at heart, and my journey revolves around two constants: a love for mathematics and an insatiable appetite for technology. From algorithms to embedded systems, from robotics to trains, I'm on a perpetual quest to explore the vast expanse of our world, both on the ground and in the cosmos.<br><br>My coding mission is simple: to craft code that not only works seamlessly but also reads like a compelling story. I believe that learning and technology should be fun, and I'm here to make that a reality, the creation is part of my heart and will keep this way for the rest of my life. Whether we're improving our daily lives or breaking through inherited barriers, technology holds the key to incredible achievements, and I'm excited to be part of the journey.<br><br>As for the future, who knows what awaits? But I'm confident that together, we'll craft something revolutionary, a game-changer that reshapes our world. Until that day arrives, I'm hard at work on tech-infused projects that span the spectrum, from the cosmos to our home planet, from rockets to cars, and even delving into the wonders of biology!</p>
 
 ###
 
 <h3 align="left">📡 What I'm doing</h3>
-
-<p align="left">-Solar Panel Optimizer: A system that tracks the movement of the sun and adjusts the position of solar panels to maximize energy output, using math algorithms and robotics to optimize energy efficiency and reduce waste.<br><br>    -Debris Tracker: An application that tracks the movement of space debris and predicts potential collisions with satellites, using advanced algorithms and real-time data to enhance space safety and prevent accidents.<br><br>    -Smart Home: A platform that allows users to control various devices and appliances in their home from their smartphone, using common technology and Wi-Fi connectivity to provide centralized control and enhance home automation.</p>
+-Cubesat Araripe: This satellite, named Cubesat Araripe, serves as the central hub for comprehensive monitoring and control within our mission. It leverages various sensor inputs and interfaces, utilizing GPIO Ports for I2C communication with an ADS 1115 ADC, external sensors (SHT20, OPT3002, ENS160), battery temperature sensing, and UART communication with a WT931 Witmotion Gyroscope. Additionally, it manages a camera servo for precise angle adjustments, while USB interfaces handle 4G connectivity and a Sony IMX 298 AutoFocus USB Camera connection. Cubesat Araripe offers a versatile and robust solution for effectively monitoring and interfacing with a diverse array of sensors and peripherals, all within the compact confines of our satellite mission. Rust-powered design. 
 
 ###
 
@@ -45,7 +44,11 @@
 
 ###
 
-<p align="left">I'm mostly self-taught, and I'm always on the lookout for new knowledge and skills to acquire. So without doubt I will love to talk with you!<br><br>If you're interested in connecting with me, you can reach me out:<br><br>Discord: (shawnnectar) — I'm here everyday, it's almost impossible that I don't see you:)<br><br>Email: (shawnnectar@pm.me) — I don't use it often, so might take a few days to remember that it exists</p>
+<p align="left">I'm a self-taught explorer, always hunting for fresh knowledge and skills. If you share my enthusiasm for technology and innovation, I'd love to connect:</p>
+
+-**Discord:** (shawnnectar) — You'll find me here every day, ready for captivating tech discussions.
+
+-**Email:** (shawnnectar@pm.me) — While I may not check it frequently, I'll be sure to get back to you when I do.
 
 ###
 
