@@ -16,12 +16,6 @@
 
 ###
 
-<h3 align="left">📡 What I'm doing</h3>
--Cubesat Araripe: This satellite, named Cubesat Araripe, serves as the central hub for comprehensive monitoring and control within our mission. It leverages various sensor inputs and interfaces, utilizing GPIO Ports for I2C communication with an ADS 1115 ADC, external sensors (SHT20, OPT3002, ENS160), battery temperature sensing, and UART communication with a WT931 Witmotion Gyroscope. Additionally, it manages a camera servo for precise angle adjustments, while USB interfaces handle 4G connectivity and a Sony IMX 298 AutoFocus USB Camera connection. Cubesat Araripe offers a versatile and robust solution for effectively monitoring and interfacing with a diverse array of sensors and peripherals, all within the compact confines of our satellite mission. Rust-powered design. 
-
-###
-
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
