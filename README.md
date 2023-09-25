@@ -19,9 +19,9 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo"  />
+  <img src="https://github.com/ShawnNectar/ShawnNectar/blob/main/rust-decent.png" height="40" width="40" alt="clion logo" />
+
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
 
