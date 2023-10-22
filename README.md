@@ -41,7 +41,7 @@
 
 <p align="left">I'm a self-taught explorer, always hunting for fresh knowledge and skills. If you share my enthusiasm for technology and innovation, I'd love to connect:</p>
 
--**Discord:** (shawnnectar) — You'll find me here every day, ready for captivating tech discussions.
+-**Discord:** (shawnrusty) — You'll find me here every day, ready for captivating tech discussions.
 
 -**Email:** (shawnnectar@pm.me) — While I may not check it frequently, I'll be sure to get back to you when I do.
 
