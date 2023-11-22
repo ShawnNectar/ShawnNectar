@@ -12,7 +12,12 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile. I'm an enthusiast at heart, and my journey revolves around two constants: a love for mathematics and an insatiable appetite for technology. From algorithms to embedded systems, from robotics to trains, I'm on a perpetual quest to explore the vast expanse of our world, both on the ground and in the cosmos.<br><br>My coding mission is simple: to craft code that not only works seamlessly but also reads like a compelling story. I believe that learning and technology should be fun, and I'm here to make that a reality, the creation is part of my heart and will keep this way for the rest of my life. Whether we're improving our daily lives or breaking through inherited barriers, technology holds the key to incredible achievements, and I'm excited to be part of the journey.<br><br>As for the future, who knows what awaits? But I'm confident that together, we'll craft something revolutionary, a game-changer that reshapes our world. Until that day arrives, I'm hard at work on tech-infused projects that span the spectrum, from the cosmos to our home planet, from rockets to cars, and even delving into the wonders of biology!</p>
+<p align="left">
+  Hi there! Thanks for visiting my GitHub profile. I'm passionate about everything related to math and tech. I enjoy learning new things and solving problems with code. I'm fascinated by the amazing world we live in, from the smallest microchip to the largest rocket. I like to experiment with different technologies and domains, such as mathematics, embedded systems, robotics, rocket science, automation, trains and things that will help people out!
+
+  My coding philosophy is simple: I want to write code that is not only functional but also elegant and engaging. I think that learning and technology should be fun and rewarding, and I want to share that joy with others. Creating things with code is my way of     expressing myself and contributing to society. I believe that technology can help us improve our lives and overcome our challenges, and I'm thrilled to be part of that process.
+
+  I don't know what the future holds, but I'm optimistic that we can make it awesome. I hope to collaborate with other like-minded people and create something innovative and impactful, something that changes the world for the better. Until then, I'm busy working on various projects that combine my interests and skills, from space exploration to solar panels, and even exploring the mysteries of life:)</p>
 
 ###
 
