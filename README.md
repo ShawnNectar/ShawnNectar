@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-  Hi there! Thanks for visiting my GitHub profile. I'm passionate about everything related to math and tech. I enjoy learning new things and solving problems with code. I'm fascinated by the amazing world we live in, from the smallest microchip to the largest rocket. I like to experiment with different technologies and domains, such as mathematics, embedded systems, robotics, rocket science, automation, trains and things that will help people out!
+  Thanks for visiting my GitHub profile. I Love Lean4, I'm passionate about everything related to math and tech. I enjoy learning new things and solving problems with code. I'm fascinated by the amazing world we live in, from the smallest microchip to the largest rocket. I like to experiment with different technologies and domains, such as mathematics, embedded systems, robotics, rocket science, automation, trains and things that will help people out!
 
   My coding philosophy is simple: I want to write code that is not only functional but also elegant and engaging. I think that learning and technology should be fun and rewarding, and I want to share that joy with others. Creating things with code is my way of     expressing myself and contributing to society. I believe that technology can help us improve our lives and overcome our challenges, and I'm thrilled to be part of that process.
 
